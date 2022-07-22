@@ -1,7 +1,8 @@
 # Table of contents
 
-* [第1章 API网关概述](README.md)
-  * [1.1 API网关是什么](<README (1).md>)
+* [0. 本书说明](README.md)
+* [第1章 API网关概述](<README (1).md>)
+  * [1.1 API网关是什么](<README (1) (1).md>)
   * [1.2 当前流行的网关软件](di-1-zhang-api-wang-guan-gai-shu/1.2-dang-qian-liu-hang-de-wang-guan-ruan-jian.md)
   * [1.3 为什么要自己开发](di-1-zhang-api-wang-guan-gai-shu/1.3-wei-shi-mo-yao-zi-ji-kai-fa.md)
 * [第2章 基础知识概要](di-2-zhang-ji-chu-zhi-shi-gai-yao/README.md)
@@ -16,4 +17,3 @@
 * [第3章 API网关代理](di-3-zhang-api-wang-guan-dai-li/README.md)
   * [3.1 路由](di-3-zhang-api-wang-guan-dai-li/3.1-lu-you.md)
   * [上游](di-3-zhang-api-wang-guan-dai-li/shang-you.md)
-* [0. 本书说明](0.-ben-shu-shuo-ming.md)
