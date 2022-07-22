@@ -4,6 +4,6 @@
 
 书名：《使用OpenResty开发API网关》
 
-作者：Seth Chen
+作者：Seth Chen（www@iunote.com）
 
 当前状态：加紧写作中
